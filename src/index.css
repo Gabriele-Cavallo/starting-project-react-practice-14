@@ -17,7 +17,7 @@ body {
 .error{
   padding: 20px;
   border-radius: 5px;
-  margin: 0 auto;
+  margin: 30px auto;
   text-align: left;
   background-color: pink;
   color: darkred;
